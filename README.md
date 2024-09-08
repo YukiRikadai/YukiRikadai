@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @YukiRikadai
-- 👀 I’m interested in Airsoft Shooting Game
-- 🌱 I’m currently learning Statistics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-YukiRikadai/YukiRikadai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Yuki Ohashi
+- Japan (Tokyo)
+- Bachelor of Science
+- Master's program
+- Tokyo University of Science
+- Majoring in Mathematical Statistics (Applied Mathematics)
+- I like...
+    * Quiz
+    * Survival Game (Airsoft Gun)
+    * Electronics
